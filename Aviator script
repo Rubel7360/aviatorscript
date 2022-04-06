@@ -1,4 +1,5 @@
-# AviatorScript
+Start 
+AviatorScript
 
 [![Build Status](https://travis-ci.org/killme2008/aviatorscript.svg?branch=master)](https://travis-ci.org/killme2008/aviatorscript)
 [![Code Quality: Java](https://img.shields.io/lgtm/grade/java/g/killme2008/aviator.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/killme2008/aviator/context:java)
@@ -55,7 +56,7 @@ $ chmod u+x aviator
 
 2. Execute  `aviator`   command，it will download the latest aviator jar to  `~/.aviatorscript`  directory：
 
-```sh
+```sha256
 $ aviator
 Downloading AviatorScript now...
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
